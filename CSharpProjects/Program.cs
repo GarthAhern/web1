@@ -6,7 +6,11 @@ namespace CSharpProjects
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Welcome to Acme Accounting System \r\n Remember, we’re “accounting” on you!” ");
+
+
+            Console.ReadLine();
         }
+    
     }
 }
